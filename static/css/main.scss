@@ -4,7 +4,6 @@
 
 @import "variables";
 @import "mixins";
-@import "bootstrap-custom-nav";
 @import "solarized-dark";
 
 /*****************************************************************************/
@@ -88,18 +87,17 @@ kbd {  /* Stolen from SO: http://meta.superuser.com/q/4788 */
 /*
 /*****************************************************************************/
 
+body {
+  display: grid;
+}
+
 .meta {
   font-family: $sans-font;
 }
 
-#content-container {
+main {
   padding: 0;
   background-color: $colour_page_bg_highlight;
-}
-
-.row {
-  margin-left: 10px;
-  margin-right: 10px;
 }
 
 .page-header {
@@ -122,10 +120,6 @@ kbd {  /* Stolen from SO: http://meta.superuser.com/q/4788 */
 
 .footer-bubble {
   text-align: center;
-}
-
-#footer-container {
-  padding-left: 0;
 }
 
 
