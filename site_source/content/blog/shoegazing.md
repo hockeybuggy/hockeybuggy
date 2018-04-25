@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The wikipedia page of the day is Shoegazing"
 date: 2013-01-17
-categories: wpotd
-author: Douglas Anderson
 ---
 
 [Shoegazing](https://en.wikipedia.org/wiki/Shoegazing) is a Genre of music. My

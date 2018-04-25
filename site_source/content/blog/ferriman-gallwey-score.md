@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The wikipedia page of the day is the Ferriman-Gallwey score"
 date: 2013-04-01
-categories: wpotd
-author: Douglas Anderson
 ---
 
 While it is April fools the [Ferriman-Gallwey

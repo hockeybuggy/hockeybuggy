@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "Relative line numbers and you"
 date: 2016-08-26
-categories: misc
-author: Douglas Anderson
 ---
 
 In May, I switched to using relative line numbers in Vim and I thought I should
