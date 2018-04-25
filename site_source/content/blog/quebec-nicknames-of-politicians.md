@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The wikipedia page of the day is Quebec nicknames of politicians"
 date: 2014-03-30
-categories: wpotd
-author: Douglas Anderson
 ---
 
 I stumbled upon [this awesome page][page] and I think it gives some interesting

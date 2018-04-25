@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The wikipedia page of the day is Graça Machel"
 date: 2014-01-13
-categories: wpotd
-author: Douglas Anderson
 ---
 
 Today's wikipedia page is about the amazing [Graça Machel][page]. This amazing

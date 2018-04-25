@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The wikipedia page of the day is on Wikis"
 date: 2012-12-04
-categories: wpotd
-author: Douglas Anderson
 ---
 
 Today's extremely meta page of the day is the page for [Wiki](https://en.wikipedia.org/wiki/Wiki) themselves. Wikis

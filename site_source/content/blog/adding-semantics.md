@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "Adding Semantics"
 date: 2014-06-23
-categories: misc
-author: Douglas Anderson
 ---
 
 Today I made a change to this blog. I hope that you can't see the difference

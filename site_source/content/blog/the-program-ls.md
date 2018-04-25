@@ -1,19 +1,16 @@
 ---
-layout: post
 title: "The wikipedia page of the day is ls"
 date: 2013-02-28
-categories: wpotd
-author: Douglas Anderson
 ---
 
 For myself, as a computer nerd, the program
 [ls](https://en.wikipedia.org/wiki/Ls) is my portal to all of my files.  It is a
 very simple program as it adheres to the Unix philosophy of "do one thing and
-do it well". All that ls does is list the files in a directory. Any directory! 
+do it well". All that ls does is list the files in a directory. Any directory!
 
 ## Simple output
 
-Output can be as simple as just the files and directories. 
+Output can be as simple as just the files and directories.
 
 Most of the time today people have access to terminals with colour and get the
 added benefit of colourized output. Being able to see quickly the file type and

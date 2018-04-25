@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The Wikipedia pages of the day are about Switch Pitching"
 date: 2014-07-09
-categories: wpotd
-author: Douglas Anderson
 ---
 
 Today I discovered from the fount of knowledge that is Wikipedia, about [switch

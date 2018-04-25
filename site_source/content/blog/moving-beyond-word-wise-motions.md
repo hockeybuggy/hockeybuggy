@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "Moving beyond word-wise motions"
 date: 2013-03-25
-categories: misc
-author: Douglas Anderson
 ---
 
 Recently I have been working quite a bit on my Vim skills. If you don't use Vim

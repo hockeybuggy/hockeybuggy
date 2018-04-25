@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The wikipedia page of the day is The Droste effect"
 date: 2012-12-03
-categories: wpotd
-author: Douglas Anderson
 ---
 
 The [Droste Effect](https://en.wikipedia.org/wiki/Droste_effect) is picture

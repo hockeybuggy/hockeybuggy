@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The wikipedia page of the day is Antonio Stratavarius"
 date: 2013-02-07
-categories: wpotd
-author: Douglas Anderson
 ---
 
 Antonio [Stratavarius](https://en.wikipedia.org/wiki/Stratavarius) was and is regarded as

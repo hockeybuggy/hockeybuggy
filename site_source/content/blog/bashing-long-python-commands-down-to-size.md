@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "Bashing long Python commands down to size"
 date: 2015-03-18
-categories: misc
-author: Douglas Anderson
 ---
 
 In November I started working at an awesome Toronto Company called [Vantage

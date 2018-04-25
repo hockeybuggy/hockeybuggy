@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "Vim splitting shortcuts"
 date: 2016-01-18
-categories: misc
-author: Douglas Anderson
 ---
 
 I have a quite a few leader mapped keys in my `.vimrc`, and I use some of them.

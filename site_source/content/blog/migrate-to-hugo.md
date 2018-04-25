@@ -1,5 +1,5 @@
 ---
-title: "2018 04 24 Migrate to Hugo"
+title: "Migrate to Hugo"
 date: 2018-04-24T22:36:39-04:00
 draft: true
 ---

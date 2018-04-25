@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The wikipedia page of the day is about the Levianthan of Parsonstown"
 date: 2014-05-02
-categories: wpotd
-author: Douglas Anderson
 ---
 
 Yesterday I was reading a wonderful [article][medium] about early astronomy and

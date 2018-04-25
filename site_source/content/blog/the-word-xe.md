@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The wikipedia page of the day is Xe"
 date: 2012-12-05
-categories: wpotd
-author: Douglas Anderson
 ---
 
 Today's page is actually a Wiktionary page and not a wikipedia page but I hope

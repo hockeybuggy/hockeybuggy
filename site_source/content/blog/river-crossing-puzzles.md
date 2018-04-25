@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The wikipedia page of the day is River Crossing Puzzles"
 date: 2013-01-22
-categories: wpotd
-author: Douglas Anderson
 ---
 
 Today's page is a type of simple puzzle the [Wolf, Cabbage, Sheep

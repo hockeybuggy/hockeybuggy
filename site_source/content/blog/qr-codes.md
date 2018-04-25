@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The wikipedia page of the day is QR codes"
 date: 2012-12-08
-categories: wpotd
-author: Douglas Anderson
 ---
 
 One of today's neat technology is [QR codes](https://en.wikipedia.org/wiki/QR_code).

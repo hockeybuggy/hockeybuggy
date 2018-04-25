@@ -1,3 +1,4 @@
 baseURL = "http://hockeybuggy.org/"
 languageCode = "en-us"
 title = "Personal website of Douglas Anderson"
+theme = "kiss"

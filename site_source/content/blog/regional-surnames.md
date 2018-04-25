@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The wikipedia pages of the day are about Surnames"
 date: 2013-03-31
-categories: wpotd
-author: Douglas Anderson
 ---
 
 We as human enjoy sorting our world to better make sense of it. One of the

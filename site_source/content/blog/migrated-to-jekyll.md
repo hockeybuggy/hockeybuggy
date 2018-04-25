@@ -1,8 +1,6 @@
 ---
-title: Migrated to Jekyll
-layout: post
-category: misc
-date: 2013-09-10 21:59:09
+title: "Migrated to Jekyll"
+date: 2013-09-10T21:59:09
 ---
 
 Around the beginning of April last year I started to have problems generating

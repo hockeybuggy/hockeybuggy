@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "The wikipedia page of the day is The World Archipelago"
 date: 2013-03-02
-categories: wpotd
-author: Douglas Anderson
 ---
 
 [The world](https://en.wikipedia.org/wiki/The_World_%28archipelago%29) is a

@@ -1,10 +1,6 @@
 ---
-layout: post
 title: "State of the Dotfiles"
-date: "2014-09-22"
-edit_date: "2014-10-03"
-categories: misc
-author: Douglas Anderson
+date: 2014-09-22
 header_img: "static/img/stateofthedotfiles-2014.jpg"
 ---
 
