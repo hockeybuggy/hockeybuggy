@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "My CS Undergrad. A git log Retrospective"
 date: 2014-10-06
-categories: misc
-author: Douglas Anderson
 ---
 
 Today I attended convocation at the University of Guelph. I honour of this
@@ -120,4 +117,3 @@ weekends or dinner time on Sundays. Pretty cool!
 
 [ORIGINAL_GIST]: https://gist.github.com/textarcana/1306223
 [STOPWORDS]: https://en.wikipedia.org/wiki/Stop_words
-

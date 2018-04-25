@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "Wind River Trip Journal"
 date: 2016-01-18
-categories: misc
-author: Douglas Anderson
+draft: true
 ---
 
 # Wind River 2015
@@ -104,9 +102,9 @@ Great pizza dinner and superb, gourmet cheesecake with freshly picked blueberry
 coulis created by Douglas.
 
 It has been great to have the bug tent the last 2 nights, to play euchre
-undisterbed by noun [?] and mosquitoes.
+undisturbed by noun [?] and mosquitoes.
 
-Cool and windy day, a few spinkels of rain here and there. Not bad at all.
+Cool and windy day, a few sprinkles of rain here and there. Not bad at all.
 
 ## Day Three - July 31th
 
@@ -277,7 +275,7 @@ Attacks - mosaics mode with the colour rocks.
 
 *Recounted by Douglas Anderson*
 
-We woke up to a cold couldy day, ate some apple crisp drake some taa and packed
+We woke up to a cold cloudy day, ate some apple crisp drake some tea and packed
 up camp (after the stove was engulfed in flame, thrown, broken on rocks, and
 "repaired").
 
