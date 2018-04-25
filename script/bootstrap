@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 
-echo "==> Installing gem dependencies…"
-bundle install
+echo "==> Installing hugo…"
+brew install hugo
+# TODO better install script

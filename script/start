@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
 
+pushd site_source
+
 echo "==> Running server in watch mode"
-bundle exec jekyll server --watch
+hugo server --watch
+
+popd
